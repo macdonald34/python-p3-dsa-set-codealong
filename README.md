@@ -1,14 +1,4 @@
-# Set Data Structure Code Along
-
-## Learning Goals
-
-- Identify the use cases for a `Set`.
-- Implement common methods for a `Set`.
-
-***
-
-## Key Vocab
-
+ 
 - **Sequence**: a data structure in which data is stored and accessed in a
 specific order.
 - **Stack** is a linear data structure that follows the principle of Last In
